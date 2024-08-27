@@ -1,1 +1,3 @@
-# mixed_messages
+# Mixed Messages
+
+author: Forrest Morrison
