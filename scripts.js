@@ -1,8 +1,8 @@
 // word choices
 
 const firstWords = ["DJ", "The", "Big", "Lil", "Super", "Master"];
-const secondWords = ["Epic", "Rockin", "Amazing", "Gnarly", "Basic", "Cringe"];
-const thirdWords = ["Maestro", "Party Starter", "Inuendo", "Computer", "Afficionado", "Spaceman"];
+const secondWords = ["Epic", "Rockin", "Amazing", "Gnarly", "Basic", "Cringe", "Sassy", "Intellectual", "Spicy"];
+const thirdWords = ["Maestro", "Party Starter", "Inuendo", "Computer", "Afficionado", "Spaceman", "Hippie", "Chinchilla", "Poodle", "King"];
 
 // event handlers
 

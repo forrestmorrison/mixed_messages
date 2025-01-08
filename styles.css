@@ -1,7 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./background-img.webp");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: purple;
+}
+
 main {
-    margin-top: 1rem;
+    margin: 1rem;
+    padding: 0 0.5rem;
     display: flex;
     flex-direction: row;
-    gap: 0.5rem;
     align-items: center;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.djWord {
+    font-size: 2rem;
+    margin: 0.5rem;
+    color: purple;
+}
+
+.button {
+    border-radius: 5px;
+    border: none;
+    font-size: 1.5rem;
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
 }
